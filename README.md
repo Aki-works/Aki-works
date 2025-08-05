@@ -1,20 +1,6 @@
 ### Hi there, I'm Akash 👋  
 🚀 Product-Focused Builder | 🎯 Aspiring Product Manager | 🧠 Data + Design + Execution  
 
-I'm passionate about building user-centric products backed by data and design. I’ve launched platforms for 10K+ users, led cross-functional teams of 40+, and developed deep learning models with >0.94 R² scores. Currently diving deeper into **JIRA**, while blending product, analytics, and design to ship impactful experiences.
-
----
-
-🛠️ **Core Skills & Tools**
-
-**Product & Design**
-- Product Roadmapping, PRD Writing, Feature Prioritization, Stakeholder Management  
-- UX Research, Wireframing, Prototyping, Figma, Notion
-
-**Data & Analytics**
-- Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel  
-- Forecasting, Time Series, Data Cleaning, Visualization
-
 **Technical Stack**
 <div>
   <!-- 🧩 Design & PM Tools -->
@@ -49,12 +35,7 @@ I'm passionate about building user-centric products backed by data and design. I
   *(Repo coming soon)*
 
 - **🌫️ PM 2.5 Forecasting for Delhi (R² = 0.9746)**  
-  LSTM-based model for short-term pollution forecasting using 29k+ data points.  
-
----
-
-🎓 **Education**  
-- **B.Tech Electrical & Electronics Engineering** – NIT Calicut 
+  LSTM-based model for short-term pollution forecasting using 29k+ data points. 
 
 ---
 
